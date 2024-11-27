@@ -55,6 +55,10 @@ We explore these areas using descriptive statistics, visualizations, and correla
 ### Investment durations preferences of the participants:
   ![Screenshot 2024-11-27 173804](https://github.com/user-attachments/assets/a59025ac-c6b1-4291-9eba-e61d3d069293)
 
+### Preferred Investment avenues and purpose of investments:
+![Screenshot 2024-11-27 174535](https://github.com/user-attachments/assets/60ca5703-36d5-4c90-add9-b6fbc4207de6)
+![Screenshot 2024-11-27 174551](https://github.com/user-attachments/assets/f55322b6-6158-41ba-a553-5d9230847eab)
+
 ## Conclusion
 - The project reveals trends like a strong focus on retirement savings, preference for secure investments, and realistic return expectations.
 - In conclusion, this project provided valuable insights into the financial preferences and behaviors of 
