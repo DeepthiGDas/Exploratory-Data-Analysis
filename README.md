@@ -1,6 +1,6 @@
 # Investment Behavior Analysis Using Excel
 
-Welcome to the **Investment Behavior Analysis** repository! This project focuses on uncovering patterns and insights in financial investment behavior using Exploratory Data Analysis (EDA). The analysis involved 4 levels comprising of 10 tasks. 
+This project focuses on uncovering patterns and insights in financial investment behavior using Exploratory Data Analysis (EDA). The analysis involved 4 levels comprising of 10 tasks. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
