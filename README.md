@@ -47,17 +47,19 @@ We explore these areas using descriptive statistics, visualizations, and correla
 - Returns: Most participants target a 20%-30% range.
 
 ### Basic Statistics of the investment avenues:
-  ![Screenshot 2024-11-27 170550](https://github.com/user-attachments/assets/3fc436b6-d386-4b00-be6d-1b03ea007964)
+![Screenshot 2024-11-27 170550](https://github.com/user-attachments/assets/3fc436b6-d386-4b00-be6d-1b03ea007964)
 
 ### Correlation Analysis using Data analysis tool Pak:
-  ![Screenshot 2024-11-27 172710](https://github.com/user-attachments/assets/fbf228ad-329e-4552-9f77-a2a930cc4046)
+![Screenshot 2024-11-27 172710](https://github.com/user-attachments/assets/fbf228ad-329e-4552-9f77-a2a930cc4046)
 
-### Investment durations preferences of the participants:
+### Investment duration preferences of the participants:
   ![Screenshot 2024-11-27 173804](https://github.com/user-attachments/assets/a59025ac-c6b1-4291-9eba-e61d3d069293)
 
-### Preferred Investment avenues and purpose of investments:
-![Screenshot 2024-11-27 174535](https://github.com/user-attachments/assets/60ca5703-36d5-4c90-add9-b6fbc4207de6)
-![Screenshot 2024-11-27 174551](https://github.com/user-attachments/assets/f55322b6-6158-41ba-a553-5d9230847eab)
+### Most Preferred Investment:
+![Screenshot 2024-11-27 180230](https://github.com/user-attachments/assets/a78eb003-cf85-4fd5-ac52-69237c52b64f)
+
+### Reasons for investment and their gender distribution:
+![Screenshot 2024-11-27 175718](https://github.com/user-attachments/assets/9671ad20-6410-481d-b78d-cc66651df40e)
 
 ## Conclusion
 - The project reveals trends like a strong focus on retirement savings, preference for secure investments, and realistic return expectations.
