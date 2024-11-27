@@ -22,9 +22,9 @@ We explore these areas using descriptive statistics, visualizations, and correla
 ## Tools & Techniques Used
 
 ### Tools:
-- **Excel**: Data cleaning, statistical analysis, visualizations, and correlation analysis using functions like `COUNTA()`, `COUNTIF()`, and `CORREL()`.
+- **Excel**: Data cleaning, statistical analysis, visualizations, and correlation analysis using functions like `COUNTA()`, `COUNTIF()`, `SUMPRODUCT()`, and `CORREL()` functions.
 - **Power Query**: Data type identification and transformation.
-- **Data Analysis Toolpak (Excel Add-In)**: Correlation analysis.
+- **Data Analysis Toolpak (Excel Add-In)**: Correlation analysis & descriptive statistics.
 
 ### Techniques:
 - **Descriptive Statistics**: Used for analyzing central tendencies (mean, median) and variability (standard deviation).
