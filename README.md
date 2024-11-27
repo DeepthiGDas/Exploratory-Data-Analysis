@@ -62,7 +62,6 @@ We explore these areas using descriptive statistics, visualizations, and correla
 ![Screenshot 2024-11-27 175718](https://github.com/user-attachments/assets/9671ad20-6410-481d-b78d-cc66651df40e)
 
 ## Conclusion
-- The project reveals trends like a strong focus on retirement savings, preference for secure investments, and realistic return expectations.
 - In conclusion, this project provided valuable insights into the financial preferences and behaviors of 
 participants. 
 - By analyzing factors such as trusted sources for investment advice, preferred investment duration, and 
