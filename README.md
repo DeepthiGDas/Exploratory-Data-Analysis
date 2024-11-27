@@ -49,11 +49,11 @@ We explore these areas using descriptive statistics, visualizations, and correla
 ### Basic Statistics of the investment avenues:
   ![Screenshot 2024-11-27 170550](https://github.com/user-attachments/assets/3fc436b6-d386-4b00-be6d-1b03ea007964)
 
-### Correlation Analysis using Data analysis tool Pak
+### Correlation Analysis using Data analysis tool Pak:
   ![Screenshot 2024-11-27 172710](https://github.com/user-attachments/assets/fbf228ad-329e-4552-9f77-a2a930cc4046)
 
-### Investment durations:
-   ![Screenshot 2024-11-27 172926](https://github.com/user-attachments/assets/54a32101-7ff3-411d-906f-4f006c853a7b)
+### Investment durations preferences of the participants:
+  ![Screenshot 2024-11-27 173804](https://github.com/user-attachments/assets/a59025ac-c6b1-4291-9eba-e61d3d069293)
 
 ## Conclusion
 - The project reveals trends like a strong focus on retirement savings, preference for secure investments, and realistic return expectations.
